@@ -1,6 +1,5 @@
-90/ 100
+120/ 100
 Last update Mon May 18 17:46:58 2015 -0700
--10: late
 -----------------------------------------------------
 [1]  Input redirection from an existant file (25)
 $ 
@@ -37,7 +36,3 @@ extra2_1a
 $ $ cat: extra2_2r: No such file or directory
 $ $ cat: extra2_2r: No such file or directory
 cat: extra2_2a: No such file or directory
-$   -5: 1> Does not work!
-  -5: 1>> Does not work!
-  -5: 2> Does not work!
-  -5: 2>> Does not work!
